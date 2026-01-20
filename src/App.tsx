@@ -10,7 +10,6 @@ import {
   GraduationCap, 
   Sparkles, 
   Linkedin, 
-  Settings, 
   Layout, 
   Database,
   Check
